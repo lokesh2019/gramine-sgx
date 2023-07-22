@@ -1,0 +1,6 @@
+gramine/
+**/*.manifest
+**/*.manifest.sgx
+**/*.sig
+**/*.sgx
+**/*.bin
